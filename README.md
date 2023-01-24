@@ -1,1 +1,1 @@
-# Analise_de_dados_Jupyter_Notebook
+# Repositorio para códigos criados no Jupyter Notebook, durante estudos sobre Ánalise de Dados com Python
